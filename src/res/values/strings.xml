@@ -1,0 +1,33 @@
+<resources>
+
+    <string name="app_name">Tacoyaki</string>
+    
+    <!-- activity_main.xml -->
+    <string name="chat_noir">Catch Kitten</string>
+    <string name="tacoyaki">Tacoyaki</string>
+    <string name="game_about">About Game</string>
+    
+    
+    <!-- chat noir module -->
+    <string name="restart_button">Restart</string>
+    <string name="undo_button"> Undo  </string>
+    <string name="cnSteps">steps</string>
+    
+    <!-- tacoyaki module -->
+    <string name="taSteps">steps</string>
+    <string name="taTips">Win the game when all circles have the same color. </string>
+    <string name="tacoyaki_de">tacoyaki     </string>
+    <string name="tacoyaki_plus">tacoyaki+</string>
+    <string name="dis_besttime">best:</string>
+    <string name="dis_timecount">time:</string>
+    
+    
+    <!-- shwcaseView strings -->
+    <string name="scv_title">Little Tips</string>
+    <string name="scv_next">Next</string>
+    <string name="scv_close">Close</string>
+    <string name="ta_tutorial">Click these circles and try to make all colors the same!</string>
+    <string name="ta_switchgame">Click the Button to switch game mode!</string>
+    
+
+</resources>
